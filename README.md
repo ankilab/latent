@@ -1,6 +1,7 @@
 # A single latent channel is sufficient for biomedical image segmentation
 
 This repository contains related code to the paper below.
+All relevant data, such as the pre-trained deep neural network, is available on [zenodo](https://zenodo.org/record/5772799).
 
 ## How to use the code
 
